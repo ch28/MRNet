@@ -10,6 +10,7 @@ The cooperation technique of MRNet-4R can also be applied to other existing (or 
 **Relevant research results have been submitted to 2022 IEEE International Conference on Communications (ICC 2022).**
 
 environment requirement:
+
     python == 3.6.5
     
     tensorflow-gpu == 1.12.0
