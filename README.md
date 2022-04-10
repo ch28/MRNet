@@ -7,7 +7,9 @@ MRNet-4R.py compresses, reports and reconstructs CSI of multiple receiving anten
 
 The cooperation technique of MRNet-4R can also be applied to other existing (or future) deep learning-based CSI feedback networks to make them have the same ability to process cooperative CSI feedback of multiple receiving antennas.
 
-**Relevant research results have been submitted to 2022 IEEE International Conference on Communications (ICC 2022).**
+**Relevant research has been submitted to 2022 IEEE International Conference on Communications (ICC 2022).**
+
+**Relevant research has been accepted by ICC 2022.**
 
 environment requirement:
 
